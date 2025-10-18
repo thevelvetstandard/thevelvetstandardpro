@@ -1,1 +1,1 @@
-# The Velvet Standard — Site
+# The Velvet Standard
